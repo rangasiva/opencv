@@ -38,6 +38,44 @@
 *.tex          text
 *.txt          text
 *.xaml         text
+git*       text export-ignore
+
+*.aidl         text
+*.appxmanifest text
+*.bib          text
+*.c            text
+*.cl           text
+*.conf         text
+*.cpp          text
+*.css_t        text
+*.cu           text
+*.cxx          text
+*.def          text
+*.filelist     text
+*.h            text
+*.hpp          text
+*.htm          text
+*.html         text
+*.hxx          text
+*.i            text
+*.idl          text
+*.java         text
+*.js           text
+*.m            text
+*.mk           text
+*.mm           text
+*.plist        text
+*.properties   text
+*.py           text
+*.qrc          text
+*.qss          text
+*.S            text
+*.sbt          text
+*.scala        text
+*.sty          text
+*.tex          text
+*.txt          text
+*.xaml         text
 
 # reST underlines/overlines can look like conflict markers
 *.rst          text conflict-marker-size=80
